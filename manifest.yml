@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: skypeboot_beta
-  host: skypeboot_beta
+  name: skypeboot_test
+  host: skypeboot_test
   disk_quota: 1024M
